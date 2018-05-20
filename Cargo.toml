@@ -1,0 +1,10 @@
+[package]
+name = "uniqcache"
+description = "Throttle duplicate lines from stdin"
+version = "0.1.0"
+authors = ["Adam Niederer <adam.niederer@gmail.com>"]
+repository = "https://github.com/AdamNiederer/faster"
+license = "AGPL-3.0"
+
+[dependencies]
+structopt = "0.2"
